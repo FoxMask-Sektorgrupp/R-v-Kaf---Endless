@@ -1,22 +1,26 @@
-License Notice (No License / All Rights Reserved)
+MIT License
 
-This project is not licensed under any open-source license. All files, code, assets, and documentation in this repository are fully owned and copyrighted by FoxMask® / Mr. Wincent Fox.
+Copyright (c) 2025 FoxMask® Sektorgrupp
 
-You are NOT allowed to:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-    - Use this project or any part of it in your own work other than using as intented by design.
-    - Modify, remix, or redistribute the files
-    - Re-upload or publish the project elsewhere
-    - Use it in commercial or altered contexts
-    - Create derivative works
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You ARE allowed to:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-    - View the files on GitHub
-    - Fork the repository only for personal backup (not for public or redistributed use)
-    - Any extended or off-closed usage, distribution, or modification requires explicit written permission from the owner.
+© 2018-2026 Räv Kafé by FoxMask® Sektorgrupp. All Rights Reserved.
 
-© 2018-2026 Räv Kafé by FoxMask®. All Rights Reserved.
-
-FoxMask®, FoxMask® Sektorgrupp, Räv Kafé and FrejaOS are protected and/or registered trademarks of FoxMask®.
-Unauthorized use, reproduction, modification, or distribution of any FoxMask® materials, contents, sources or characters are strictly prohibited.
+FoxMask®, Räv Kafé, KällRäven and FrejaOS are protected and/or registered trademarks of FoxMask® Sektorgrupp.
+Unauthorized use, reproduction, modification, or distribution of any FoxMask® materials, contents, sources or characters are strictly prohibited unless stated otherwise.
